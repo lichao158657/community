@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##项目描述
 模仿elastic中文社区建立的一个博客界面
 ##工具链接
@@ -8,3 +9,7 @@ https://v3.bootcss.com bootstrap样式（前端样式）
 
 ##项目链接
 https://github.com/lichao158657/community.git
+=======
+# community
+LiChao community
+>>>>>>> origin/master
